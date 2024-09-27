@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/alyssagable.art/static/css/main.a337d8f0.css",
-    "main.js": "/alyssagable.art/static/js/main.d2b562e9.js",
+    "main.js": "/alyssagable.art/static/js/main.25778262.js",
     "index.html": "/alyssagable.art/index.html",
     "main.a337d8f0.css.map": "/alyssagable.art/static/css/main.a337d8f0.css.map",
-    "main.d2b562e9.js.map": "/alyssagable.art/static/js/main.d2b562e9.js.map"
+    "main.25778262.js.map": "/alyssagable.art/static/js/main.25778262.js.map"
   },
   "entrypoints": [
     "static/css/main.a337d8f0.css",
-    "static/js/main.d2b562e9.js"
+    "static/js/main.25778262.js"
   ]
 }
